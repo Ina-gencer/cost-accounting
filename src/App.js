@@ -7,14 +7,14 @@ const INITIAL_COSTS = [
   {
     id:1,
     date: new Date(2020, 2, 12),
-    description: 'MACBOOK',
+    description: 'MacBook',
     amount: 1250
   },
   {
     id:2,
     date: new Date(2021, 2, 12),
-    description: 'apple',
-    amount: 980
+    description: 'New Car',
+    amount: 23500
   }, 
   { 
     id:3,
