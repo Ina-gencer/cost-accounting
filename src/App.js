@@ -24,13 +24,13 @@ const INITIAL_COSTS = [
   },
   { 
     id:4,
-    date: new Date(2023, 6, 14),
+    date: new Date(2022, 6, 14),
     description: 'Traveling',
     amount: 2430
   },
   { 
     id:5,
-    date: new Date(2024, 1, 28),
+    date: new Date(2022, 1, 28),
     description: 'Gifts for birthday',
     amount: 470
   }
