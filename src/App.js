@@ -21,6 +21,18 @@ const INITIAL_COSTS = [
     date: new Date(2019, 6, 25),
     description: 'TV',
     amount: 430
+  },
+  { 
+    id:4,
+    date: new Date(2023, 6, 14),
+    description: 'Traveling',
+    amount: 2430
+  },
+  { 
+    id:5,
+    date: new Date(2024, 1, 28),
+    description: 'Gifts for birthday',
+    amount: 470
   }
  ]
 
